@@ -1,0 +1,44 @@
+# Binários e build
+/app
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Diretórios temporários
+tmp/
+temp/
+.cache/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Go modules/cache
+/vendor/
+/go.sum
+/go.sum~
+
+# Arquivos de log
+*.log
+
+# Arquivos .env
+.env
+.env.*
+
+# Terraform (caso esteja junto com backend)
+*.tfstate
+*.tfstate.backup
+.terraform/
+crash.log
+
+# Docker (opcional)
+*.tar
