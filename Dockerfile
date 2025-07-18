@@ -5,7 +5,6 @@ WORKDIR /app
 
 # Copia arquivos do Go
 COPY go.mod ./
-COPY go.sum ./
 RUN go mod download
 
 # Copia o projeto inteiro
