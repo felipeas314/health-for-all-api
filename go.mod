@@ -12,6 +12,8 @@ require (
 	github.com/gofiber/fiber/v2 v2.52.8
 	github.com/golang-jwt/jwt/v5 v5.2.3
 	github.com/google/uuid v1.6.0
+	github.com/joho/godotenv v1.5.1
+	github.com/ledongthuc/pdf v0.0.0-20250511090121-5959a4027728
 	github.com/sashabaranov/go-openai v1.40.5
 	golang.org/x/crypto v0.40.0
 )
@@ -33,9 +35,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.8 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
-	github.com/ledongthuc/pdf v0.0.0-20250511090121-5959a4027728 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
