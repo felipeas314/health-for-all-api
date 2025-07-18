@@ -24,8 +24,6 @@ Thumbs.db
 
 # Go modules/cache
 /vendor/
-/go.sum
-/go.sum~
 
 # Arquivos de log
 *.log
